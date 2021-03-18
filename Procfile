@@ -1,1 +1,1 @@
-heroku logs --tail --app deployeappangualr
+web: node dist/server.js
